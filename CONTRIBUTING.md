@@ -1,4 +1,4 @@
-# Contributing to faang-cobalt-video-downloader
+# Contributing to cobaltvideodownloader
 
 Thank you for your interest in contributing!
 

@@ -1,11 +1,11 @@
 [package]
-name = "faang-cobalt-video-downloader-backend"
+name = "cobaltvideodownloader-backend"
 version = "0.1.0"
 edition = "2021"
 description = "Download any social media video - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/faang-cobalt-video-downloader"
+repository = "https://github.com/JJ-Dynamite/cobaltvideodownloader"
 
 [dependencies]
 axum = "0.7"
