@@ -1,6 +1,6 @@
 # Download any social media video
 
-[![CI](https://github.com/JJ-Dynamite/cobalt-video-downloader/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/cobalt-video-downloader/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/faang-cobalt-video-downloader/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-cobalt-video-downloader/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Download any social media video - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/cobalt-video-downloader.git
+git clone https://github.com/JJ-Dynamite/faang-cobalt-video-downloader.git
 cd cobalt-video-downloader
 
 # Install backend dependencies
